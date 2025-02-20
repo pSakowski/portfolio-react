@@ -1,0 +1,16 @@
+body {
+  background-color: #081B29;
+  color: #FFFFFF;
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: #00ABF0;
+  text-decoration: none;
+}
+
+a:hover {
+  opacity: 0.8;
+}
